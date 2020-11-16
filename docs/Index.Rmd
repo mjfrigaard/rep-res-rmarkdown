@@ -56,6 +56,7 @@ https://mjfrigaard.github.io/rep-res-rmarkdown/Index.html
 
 ### Link to exercises: 
 
+https://mjfrigaard.github.io/rep-re-rmd-exercises/Index.html
 
 
 
