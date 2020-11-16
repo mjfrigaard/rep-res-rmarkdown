@@ -52,9 +52,11 @@ background-size: 8%
 
 ### Link to slides: 
 
-
+https://mjfrigaard.github.io/rep-res-rmarkdown/Index.html
 
 ### Link to exercises: 
+
+
 
 
 
