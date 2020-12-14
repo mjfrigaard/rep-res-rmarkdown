@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Data Analysis With R"
-subtitle: "BioMarin CSM: Writing dynamic reports with RMarkdown"
+subtitle: "bmRn CSM: Writing dynamic reports with RMarkdown"
 author: "Martin Frigaard"
 date: "`r Sys.Date()`"
 output:
